@@ -1,0 +1,49 @@
+
+.navbar{
+}
+
+.navbar-nav{
+margin-left: 2rem;
+}
+
+.collapse{
+
+}
+
+.navbar-brand{
+}
+#navbar-brand{
+  font-size: 0.8rem;
+  font-family: 'Merriweather', serif;
+}
+.row{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0rem;
+}
+
+.sunglow-fashion{
+  font-family: 'Pacifico', cursive;
+  font-size: 100rem;
+  padding-left: 2%;
+}
+.profile{
+  text-align: right;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+ padding-left: 1.9rem;
+ padding-right: 2.9rem;
+ max-width: 1225px;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #2554C7;
+  font-family: 'Pacifico', cursive;
+}
